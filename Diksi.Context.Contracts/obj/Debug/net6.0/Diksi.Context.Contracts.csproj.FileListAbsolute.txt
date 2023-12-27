@@ -1,0 +1,12 @@
+C:\Users\Marce\Desktop\Коноплёв\Diksi_Lays\Diksi.Context.Contracts\bin\Debug\net6.0\Diksi.Context.Contracts.deps.json
+C:\Users\Marce\Desktop\Коноплёв\Diksi_Lays\Diksi.Context.Contracts\bin\Debug\net6.0\Diksi.Context.Contracts.dll
+C:\Users\Marce\Desktop\Коноплёв\Diksi_Lays\Diksi.Context.Contracts\bin\Debug\net6.0\Diksi.Context.Contracts.pdb
+C:\Users\Marce\Desktop\Коноплёв\Diksi_Lays\Diksi.Context.Contracts\obj\Debug\net6.0\Diksi.Context.Contracts.csproj.AssemblyReference.cache
+C:\Users\Marce\Desktop\Коноплёв\Diksi_Lays\Diksi.Context.Contracts\obj\Debug\net6.0\Diksi.Context.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marce\Desktop\Коноплёв\Diksi_Lays\Diksi.Context.Contracts\obj\Debug\net6.0\Diksi.Context.Contracts.AssemblyInfoInputs.cache
+C:\Users\Marce\Desktop\Коноплёв\Diksi_Lays\Diksi.Context.Contracts\obj\Debug\net6.0\Diksi.Context.Contracts.AssemblyInfo.cs
+C:\Users\Marce\Desktop\Коноплёв\Diksi_Lays\Diksi.Context.Contracts\obj\Debug\net6.0\Diksi.Context.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Marce\Desktop\Коноплёв\Diksi_Lays\Diksi.Context.Contracts\obj\Debug\net6.0\Diksi.Context.Contracts.dll
+C:\Users\Marce\Desktop\Коноплёв\Diksi_Lays\Diksi.Context.Contracts\obj\Debug\net6.0\refint\Diksi.Context.Contracts.dll
+C:\Users\Marce\Desktop\Коноплёв\Diksi_Lays\Diksi.Context.Contracts\obj\Debug\net6.0\Diksi.Context.Contracts.pdb
+C:\Users\Marce\Desktop\Коноплёв\Diksi_Lays\Diksi.Context.Contracts\obj\Debug\net6.0\ref\Diksi.Context.Contracts.dll

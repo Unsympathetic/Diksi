@@ -1,0 +1,11 @@
+D:\Repository\Diksi.Context.Contracts\obj\Debug\net8.0\Diksi.Context.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repository\Diksi.Context.Contracts\obj\Debug\net8.0\Diksi.Context.Contracts.AssemblyInfoInputs.cache
+D:\Repository\Diksi.Context.Contracts\obj\Debug\net8.0\Diksi.Context.Contracts.AssemblyInfo.cs
+D:\Repository\Diksi.Context.Contracts\obj\Debug\net8.0\Diksi.Context.Contracts.csproj.CoreCompileInputs.cache
+D:\Repository\Diksi.Context.Contracts\bin\Debug\net8.0\Diksi.Context.Contracts.deps.json
+D:\Repository\Diksi.Context.Contracts\bin\Debug\net8.0\Diksi.Context.Contracts.dll
+D:\Repository\Diksi.Context.Contracts\bin\Debug\net8.0\Diksi.Context.Contracts.pdb
+D:\Repository\Diksi.Context.Contracts\obj\Debug\net8.0\Diksi.Context.Contracts.dll
+D:\Repository\Diksi.Context.Contracts\obj\Debug\net8.0\refint\Diksi.Context.Contracts.dll
+D:\Repository\Diksi.Context.Contracts\obj\Debug\net8.0\Diksi.Context.Contracts.pdb
+D:\Repository\Diksi.Context.Contracts\obj\Debug\net8.0\ref\Diksi.Context.Contracts.dll
