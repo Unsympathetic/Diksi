@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Diksi.Context/1.0.0": {
+        "dependencies": {
+          "Diksi.Context.Contracts": "1.0.0"
+        },
+        "runtime": {
+          "Diksi.Context.dll": {}
+        }
+      },
+      "Diksi.Context.Contracts/1.0.0": {
+        "runtime": {
+          "Diksi.Context.Contracts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Diksi.Context/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Diksi.Context.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
