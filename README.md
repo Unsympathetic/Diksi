@@ -1,17 +1,18 @@
-**Ваннес Лейс Мустафаевич**
+**Калугин Антон Сергеевич**
 ==================================
 ИП-20-7к
 ----------------------------------
-Магазин Дикси
+Автомастерская
 ----------------------------------
-![image](https://github.com/Unsympathetic/Diksi/assets/104492314/5cbe87fd-14f9-43ec-8796-a5042201182b)
+![image](https://github.com/Unsympathetic/mash/assets/104492314/4053e202-62e1-4dee-8f58-ff70e57efd9b)
+
 ----------------------------------
 ```mermaid
 erDiagram
   
  
-    Pokupatel ||--o{ Nakladnaya : places
-    Pokupatel {
+    Klient ||--o{ Nakladnaya : places
+    Klient {
         string name
         int Index
         string Address
@@ -23,9 +24,10 @@ erDiagram
         string Name
         string Description
     }
-Tovar ||--o{ Nakladnaya : places
-    Tovar {
+Usluga ||--o{ Nakladnaya : places
+    Usluga {
         string Name
+        string Time
         string EdIzmer
  
     }
